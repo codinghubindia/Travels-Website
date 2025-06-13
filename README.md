@@ -99,6 +99,7 @@ Traveller Website/
 - TypeScript
 - Material UI
 - React Query
+- React Icons
 - Tailwind CSS
 
 ### Backend
